@@ -2,13 +2,13 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         int l=0,r=0,maxf=0,maxLength=0,n=s.size();
-        unordered_map<char,int> hash;
+        int hash[26]={0};
         while(r<n){
-            hash[s[r]]++;
-            maxf=max(maxf,hash[s[r]]);
+            hash[s[r]-'A']++;
+            maxf=max(maxf,hash[s[r]-'A']);
             if((r-l+1)-maxf > k){
                 maxf=0;
-                hash[s[l]]--;
+                hash[s[l]-'A']--;
                 l++;
             }else{
                 maxLength=max(maxLength,r-l+1);
