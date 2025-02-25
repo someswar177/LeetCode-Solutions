@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/someswar177/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/someswar177/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -43,5 +44,10 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/someswar177/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
