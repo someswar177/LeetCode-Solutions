@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/someswar177/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/someswar177/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/someswar177/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/someswar177/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
