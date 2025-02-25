@@ -19,6 +19,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/someswar177/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/someswar177/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/someswar177/LeetCode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/someswar177/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/someswar177/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/someswar177/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -46,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/someswar177/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/someswar177/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/someswar177/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/someswar177/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
