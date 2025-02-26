@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/someswar177/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/someswar177/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/someswar177/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/someswar177/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
