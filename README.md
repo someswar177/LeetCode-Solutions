@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/someswar177/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/someswar177/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/someswar177/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/someswar177/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/someswar177/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/someswar177/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/someswar177/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/someswar177/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/someswar177/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/someswar177/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -85,12 +89,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/someswar177/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/someswar177/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
