@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/someswar177/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/someswar177/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/someswar177/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/someswar177/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/someswar177/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
