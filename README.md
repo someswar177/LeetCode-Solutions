@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/someswar177/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/someswar177/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/someswar177/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/someswar177/LeetCode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -130,5 +131,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/someswar177/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someswar177/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/someswar177/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
